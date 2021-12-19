@@ -1,4 +1,4 @@
-### ⚡ Lifelong Learner
+# ⚡ Lifelong Learner
 
 <!--
 **test-haqi/test-haqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
